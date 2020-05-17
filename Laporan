@@ -1,0 +1,41 @@
+# Libry - Your Pocket Library
+Kelompok:
+1. Shibgotollah Sabilana &ensp; G64180002
+2. M.Aldi Alripa &ensp; G64180057
+3. Muhammad Fahrury Romdendine &ensp; G64180069
+
+## Latar Belakang
+
+## Tujuan
+
+1. Mempermudah mahasiswa untuk mengenali makanan dan minuman yang dijual oleh kantin kantin yang ada di IPB University
+2. Mempromosikan makanan dan minuman yang dijual oleh kantin kantin yang ada di IPB University
+
+## Ruang lingkup
+
+1. Informasi kantin yang ada di IPB University beserta dengan produk produk yang dijualnya sehingga mempermudah user user mengenali produk makanan dan minuman yang akan dibelinya.
+2. Sistem manajemen data buku yang disimpan pada database melalui operasi insert, update, delete, dan view data yang ditampilkan melalui website.
+
+##  Deskripsi perangkat lunak
+
+NGANT.IN adalah suatu aplikasi yang akan membantu mahasiswa IPB khususnya mahasiswa baru yang belum terlalu mengenal seluruh kantin atau tempat tempat makan di IPB agar mengetahui makanan/minuman apa saja yang dijual di IPB. Aplikasi ini akan menampilkan dimana saja tempat tempat di IPB yang menjual makanan/minuman, dari masing masing tempat tersebut akan ditampilkan menu apa saja yang disediakannya. Aplikasi ini juga memiliki fitur rating dan komen, dimana fitur rating ini bisa juga digunankan untuk menilai tempat yang menjual makanan sudah menerapkan IPB GREEN CAMPUS 2020.
+
+##  Analisis user (user profile)
+Umur&ensp;: >12 tahun
+
+Jenis kelamin&ensp;: Laki-laki dan perempuan
+
+Pendidikan&ensp;: Mahasiswa IPB University
+
+Motivasi&ensp;: Kesulitan mencari makanan dan minuman di IPB dengan harga tertentu
+
+Goals&ensp;: User bisa mendapatkan informasi agar mengenali makanan dan minuman yang dijual di berbagai kantin IPB University
+
+##  User story
+
+##  Use case diagram
+##  Use case description 
+##  Activity diagram
+##  Gantt chart
+##  ERD
+##  Hasil implementasi perangkat lunak
